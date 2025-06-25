@@ -1,0 +1,1874 @@
+{
+    "Dabuleni": {
+        "checkpoints": [
+            {
+                "steps": 80177,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-80177.onnx",
+                "reward": 4.214263990795685,
+                "creation_time": 1745089056.2066972,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-80177.pt"
+                ]
+            },
+            {
+                "steps": 92459,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-92459.onnx",
+                "reward": 2.1013769671536875,
+                "creation_time": 1745089508.831294,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-92459.pt"
+                ]
+            },
+            {
+                "steps": 96544,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-96544.onnx",
+                "reward": -0.14471142681745383,
+                "creation_time": 1745089539.9910276,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-96544.pt"
+                ]
+            },
+            {
+                "steps": 131791,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-131791.onnx",
+                "reward": 3.0418016261914196,
+                "creation_time": 1745089591.535483,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-131791.pt"
+                ]
+            },
+            {
+                "steps": 290210,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-290210.onnx",
+                "reward": 9.374256475551709,
+                "creation_time": 1745089846.8195093,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-290210.pt"
+                ]
+            },
+            {
+                "steps": 499861,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-499861.onnx",
+                "reward": 13.365907972509211,
+                "creation_time": 1745090599.989179,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-499861.pt"
+                ]
+            },
+            {
+                "steps": 546668,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-546668.onnx",
+                "reward": 14.580344134363635,
+                "creation_time": 1745090640.6011422,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-546668.pt"
+                ]
+            },
+            {
+                "steps": 697159,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-697159.onnx",
+                "reward": 18.018808523813885,
+                "creation_time": 1745090844.6306822,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-697159.pt"
+                ]
+            },
+            {
+                "steps": 732987,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-732987.onnx",
+                "reward": 6.419408804720098,
+                "creation_time": 1745091156.6546357,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-732987.pt"
+                ]
+            },
+            {
+                "steps": 738811,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-738811.onnx",
+                "reward": 9.715293693849269,
+                "creation_time": 1745091248.763386,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-738811.pt"
+                ]
+            },
+            {
+                "steps": 879271,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-879271.onnx",
+                "reward": 7.151405915617943,
+                "creation_time": 1745091421.0992017,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-879271.pt"
+                ]
+            },
+            {
+                "steps": 952466,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-952466.onnx",
+                "reward": 9.817372300867307,
+                "creation_time": 1745091524.5078366,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-952466.pt"
+                ]
+            },
+            {
+                "steps": 956966,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-956966.onnx",
+                "reward": 5.17054520520297,
+                "creation_time": 1745421848.9716084,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-956966.pt"
+                ]
+            },
+            {
+                "steps": 999619,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-999619.onnx",
+                "reward": -0.3544999740552157,
+                "creation_time": 1745422027.5419464,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-999619.pt"
+                ]
+            },
+            {
+                "steps": 1015416,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-1015416.onnx",
+                "reward": 0.004699692492404899,
+                "creation_time": 1745422041.018763,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-1015416.pt"
+                ]
+            },
+            {
+                "steps": 1227419,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-1227419.onnx",
+                "reward": 0.25491662219477196,
+                "creation_time": 1745422657.7823246,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-1227419.pt"
+                ]
+            },
+            {
+                "steps": 1499899,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-1499899.onnx",
+                "reward": 9.263613948950896,
+                "creation_time": 1745423062.3263688,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-1499899.pt"
+                ]
+            },
+            {
+                "steps": 1698234,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-1698234.onnx",
+                "reward": 7.366388122240703,
+                "creation_time": 1745423311.463367,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-1698234.pt"
+                ]
+            },
+            {
+                "steps": 1772991,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-1772991.onnx",
+                "reward": 14.116865336100261,
+                "creation_time": 1745423463.221032,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-1772991.pt"
+                ]
+            },
+            {
+                "steps": 1999870,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-1999870.onnx",
+                "reward": 18.834998448689777,
+                "creation_time": 1745423681.1840096,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-1999870.pt"
+                ]
+            },
+            {
+                "steps": 2148788,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2148788.onnx",
+                "reward": 13.507998237609863,
+                "creation_time": 1745423787.3957133,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2148788.pt"
+                ]
+            },
+            {
+                "steps": 2499946,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2499946.onnx",
+                "reward": 24.79666582743327,
+                "creation_time": 1745424114.9657385,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2499946.pt"
+                ]
+            },
+            {
+                "steps": 2628290,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2628290.onnx",
+                "reward": 24.41047432309105,
+                "creation_time": 1745424209.1651495,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2628290.pt"
+                ]
+            },
+            {
+                "steps": 2634340,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2634340.onnx",
+                "reward": 7.22253612158955,
+                "creation_time": 1745444743.5044851,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2634340.pt"
+                ]
+            },
+            {
+                "steps": 2860744,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2860744.onnx",
+                "reward": null,
+                "creation_time": 1745444998.0844133,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2860744.pt"
+                ]
+            },
+            {
+                "steps": 2863093,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2863093.onnx",
+                "reward": 18.88954448699951,
+                "creation_time": 1745445512.2072632,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2863093.pt"
+                ]
+            },
+            {
+                "steps": 2880112,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2880112.onnx",
+                "reward": 2.5481548599662287,
+                "creation_time": 1745672436.7147162,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2880112.pt"
+                ]
+            },
+            {
+                "steps": 2894766,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2894766.onnx",
+                "reward": 7.552257901237857,
+                "creation_time": 1745672520.9973788,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2894766.pt"
+                ]
+            },
+            {
+                "steps": 2921766,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2921766.onnx",
+                "reward": 13.78333275516828,
+                "creation_time": 1745672654.302726,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2921766.pt"
+                ]
+            },
+            {
+                "steps": 2999700,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2999700.onnx",
+                "reward": 22.109511138462437,
+                "creation_time": 1745672786.1718428,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2999700.pt"
+                ]
+            },
+            {
+                "steps": 3045728,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3045728.onnx",
+                "reward": null,
+                "creation_time": 1745672838.7994487,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3045728.pt"
+                ]
+            },
+            {
+                "steps": 3048668,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3048668.onnx",
+                "reward": -0.42887494880706073,
+                "creation_time": 1745705849.3149521,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3048668.pt"
+                ]
+            },
+            {
+                "steps": 3050478,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3050478.onnx",
+                "reward": -8.717223053177198,
+                "creation_time": 1745705891.5413017,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3050478.pt"
+                ]
+            },
+            {
+                "steps": 3051602,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3051602.onnx",
+                "reward": -1.0893754363059998,
+                "creation_time": 1745705979.1437576,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3051602.pt"
+                ]
+            },
+            {
+                "steps": 3053148,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3053148.onnx",
+                "reward": -14.400554537773132,
+                "creation_time": 1745706068.6439905,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3053148.pt"
+                ]
+            },
+            {
+                "steps": 3056457,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3056457.onnx",
+                "reward": 2.5315623097121716,
+                "creation_time": 1745706095.8689578,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3056457.pt"
+                ]
+            },
+            {
+                "steps": 3061801,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3061801.onnx",
+                "reward": -11.323182387785478,
+                "creation_time": 1745706285.0823853,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3061801.pt"
+                ]
+            },
+            {
+                "steps": 3062547,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3062547.onnx",
+                "reward": 2.463999128341675,
+                "creation_time": 1745706341.0664768,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3062547.pt"
+                ]
+            },
+            {
+                "steps": 3066977,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3066977.onnx",
+                "reward": -7.805535961474691,
+                "creation_time": 1745706411.5371265,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3066977.pt"
+                ]
+            },
+            {
+                "steps": 3068001,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3068001.onnx",
+                "reward": null,
+                "creation_time": 1745706492.1162817,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3068001.pt"
+                ]
+            },
+            {
+                "steps": 3068001,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3068001.onnx",
+                "reward": null,
+                "creation_time": 1745706563.6870375,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3068001.pt"
+                ]
+            },
+            {
+                "steps": 3071181,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3071181.onnx",
+                "reward": 3.9883321126302085,
+                "creation_time": 1745706614.4088042,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3071181.pt"
+                ]
+            },
+            {
+                "steps": 3136393,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3136393.onnx",
+                "reward": 16.35333188374837,
+                "creation_time": 1745706768.4950778,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3136393.pt"
+                ]
+            },
+            {
+                "steps": 3155992,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3155992.onnx",
+                "reward": 13.392044248906048,
+                "creation_time": 1745706819.8282928,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3155992.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-0.onnx",
+                "reward": null,
+                "creation_time": 1745706946.3979301,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-0.pt"
+                ]
+            },
+            {
+                "steps": 3155992,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3155992.onnx",
+                "reward": null,
+                "creation_time": 1745707030.4820926,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3155992.pt"
+                ]
+            },
+            {
+                "steps": 3156146,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3156146.onnx",
+                "reward": 6.629999876022339,
+                "creation_time": 1745707181.9291456,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3156146.pt"
+                ]
+            },
+            {
+                "steps": 3157145,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3157145.onnx",
+                "reward": 27.528331597646076,
+                "creation_time": 1745707297.823952,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3157145.pt"
+                ]
+            },
+            {
+                "steps": 3162505,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3162505.onnx",
+                "reward": 17.332607699477155,
+                "creation_time": 1745708034.17624,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3162505.pt"
+                ]
+            },
+            {
+                "steps": 3163529,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3163529.onnx",
+                "reward": null,
+                "creation_time": 1745708064.2241013,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3163529.pt"
+                ]
+            },
+            {
+                "steps": 3163529,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3163529.onnx",
+                "reward": null,
+                "creation_time": 1745708090.0974972,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3163529.pt"
+                ]
+            },
+            {
+                "steps": 3165210,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3165210.onnx",
+                "reward": -3.8159999370574953,
+                "creation_time": 1745708128.9294765,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3165210.pt"
+                ]
+            },
+            {
+                "steps": 3167021,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3167021.onnx",
+                "reward": 16.476427350725448,
+                "creation_time": 1745708203.541531,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3167021.pt"
+                ]
+            },
+            {
+                "steps": 3167515,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3167515.onnx",
+                "reward": -9.81999945640564,
+                "creation_time": 1745708237.7864466,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3167515.pt"
+                ]
+            },
+            {
+                "steps": 3170552,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3170552.onnx",
+                "reward": 31.927499771118164,
+                "creation_time": 1745708278.0958593,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3170552.pt"
+                ]
+            },
+            {
+                "steps": 3045728,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3045728.onnx",
+                "reward": null,
+                "creation_time": 1745708616.4310362,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3045728.pt"
+                ]
+            },
+            {
+                "steps": 3049679,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3049679.onnx",
+                "reward": 28.214443418714737,
+                "creation_time": 1745708672.824392,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3049679.pt"
+                ]
+            },
+            {
+                "steps": 3105769,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3105769.onnx",
+                "reward": 20.7053320368131,
+                "creation_time": 1745708799.4370604,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3105769.pt"
+                ]
+            },
+            {
+                "steps": 3086697,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3086697.onnx",
+                "reward": 27.68420963381466,
+                "creation_time": 1745709282.9530866,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3086697.pt"
+                ]
+            },
+            {
+                "steps": 3087889,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3087889.onnx",
+                "reward": 4.1787497997283936,
+                "creation_time": 1745709350.801086,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3087889.pt"
+                ]
+            },
+            {
+                "steps": 3089388,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3089388.onnx",
+                "reward": -8.306249976158142,
+                "creation_time": 1745709395.7561996,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3089388.pt"
+                ]
+            },
+            {
+                "steps": 3051459,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3051459.onnx",
+                "reward": -36.60615451519306,
+                "creation_time": 1745709443.7270415,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3051459.pt"
+                ]
+            },
+            {
+                "steps": 3051248,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3051248.onnx",
+                "reward": -107.54500579833984,
+                "creation_time": 1745709601.493486,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3051248.pt"
+                ]
+            },
+            {
+                "steps": 3062884,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3062884.onnx",
+                "reward": 28.23203589298107,
+                "creation_time": 1745709679.6753013,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3062884.pt"
+                ]
+            },
+            {
+                "steps": 3121996,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3121996.onnx",
+                "reward": 16.613956103722256,
+                "creation_time": 1745709784.5064044,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3121996.pt"
+                ]
+            },
+            {
+                "steps": 3156442,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3156442.onnx",
+                "reward": 28.79535596711295,
+                "creation_time": 1745710135.8138027,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3156442.pt"
+                ]
+            },
+            {
+                "steps": 3172500,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3172500.onnx",
+                "reward": 29.185809225649447,
+                "creation_time": 1745710426.604993,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3172500.pt"
+                ]
+            },
+            {
+                "steps": 3236305,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3236305.onnx",
+                "reward": 94.04500579833984,
+                "creation_time": 1745710867.310048,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3236305.pt"
+                ]
+            },
+            {
+                "steps": 3262772,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3262772.onnx",
+                "reward": 91.48500156402588,
+                "creation_time": 1745711051.1161456,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3262772.pt"
+                ]
+            },
+            {
+                "steps": 3268895,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3268895.onnx",
+                "reward": 27.767646617749158,
+                "creation_time": 1745711699.0800226,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3268895.pt"
+                ]
+            },
+            {
+                "steps": 3052914,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3052914.onnx",
+                "reward": 9.230001044273376,
+                "creation_time": 1745711767.082485,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3052914.pt"
+                ]
+            },
+            {
+                "steps": 2918552,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2918552.onnx",
+                "reward": 60.271137698130175,
+                "creation_time": 1745712138.2699006,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2918552.pt"
+                ]
+            },
+            {
+                "steps": 2999777,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2999777.onnx",
+                "reward": 48.2811131657116,
+                "creation_time": 1745712233.3410897,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2999777.pt"
+                ]
+            },
+            {
+                "steps": 3223889,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3223889.onnx",
+                "reward": 54.01111163530085,
+                "creation_time": 1745712432.4995978,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3223889.pt"
+                ]
+            },
+            {
+                "steps": 3270669,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3270669.onnx",
+                "reward": 24.079498958587646,
+                "creation_time": 1745712752.1145213,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3270669.pt"
+                ]
+            },
+            {
+                "steps": 3499618,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3499618.onnx",
+                "reward": 44.10000038146973,
+                "creation_time": 1745713300.7849789,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3499618.pt"
+                ]
+            },
+            {
+                "steps": 3814093,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3814093.onnx",
+                "reward": 36.08899882435799,
+                "creation_time": 1745713626.2264998,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3814093.pt"
+                ]
+            },
+            {
+                "steps": 3910777,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3910777.onnx",
+                "reward": 47.813861413435504,
+                "creation_time": 1745714100.0696492,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3910777.pt"
+                ]
+            },
+            {
+                "steps": 3958991,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3958991.onnx",
+                "reward": 45.592777252197266,
+                "creation_time": 1745714218.893446,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3958991.pt"
+                ]
+            },
+            {
+                "steps": 3969680,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3969680.onnx",
+                "reward": 22.63227170344555,
+                "creation_time": 1745714315.1176577,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3969680.pt"
+                ]
+            },
+            {
+                "steps": 3992043,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3992043.onnx",
+                "reward": 14.876667102177938,
+                "creation_time": 1745714376.080423,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3992043.pt"
+                ]
+            },
+            {
+                "steps": 2999825,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-2999825.onnx",
+                "reward": 22.96749894233311,
+                "creation_time": 1745714643.1469588,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-2999825.pt"
+                ]
+            },
+            {
+                "steps": 3304710,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3304710.onnx",
+                "reward": 40.97699983119965,
+                "creation_time": 1745715000.7181568,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3304710.pt"
+                ]
+            },
+            {
+                "steps": 3499595,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3499595.onnx",
+                "reward": 47.098748207092285,
+                "creation_time": 1745756489.7342687,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3499595.pt"
+                ]
+            },
+            {
+                "steps": 3529752,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3529752.onnx",
+                "reward": 55.917497634887695,
+                "creation_time": 1745756524.131298,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3529752.pt"
+                ]
+            },
+            {
+                "steps": 3557075,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3557075.onnx",
+                "reward": 27.827137538364955,
+                "creation_time": 1745756623.0792453,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3557075.pt"
+                ]
+            },
+            {
+                "steps": 3557890,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3557890.onnx",
+                "reward": -2.035999822616577,
+                "creation_time": 1745756988.4211695,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3557890.pt"
+                ]
+            },
+            {
+                "steps": 3367334,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3367334.onnx",
+                "reward": null,
+                "creation_time": 1745757293.9136965,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3367334.pt"
+                ]
+            },
+            {
+                "steps": 3369301,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3369301.onnx",
+                "reward": -0.8683015278407505,
+                "creation_time": 1745758122.10916,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3369301.pt"
+                ]
+            },
+            {
+                "steps": 3370791,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3370791.onnx",
+                "reward": -1.0603910419318778,
+                "creation_time": 1745758175.46968,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3370791.pt"
+                ]
+            },
+            {
+                "steps": 3375542,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3375542.onnx",
+                "reward": 62.72285461425781,
+                "creation_time": 1745758228.494839,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3375542.pt"
+                ]
+            },
+            {
+                "steps": 3392200,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3392200.onnx",
+                "reward": 59.30799929857254,
+                "creation_time": 1745758319.4025812,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3392200.pt"
+                ]
+            },
+            {
+                "steps": 3426707,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3426707.onnx",
+                "reward": 69.30142756870815,
+                "creation_time": 1745758610.9469063,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3426707.pt"
+                ]
+            },
+            {
+                "steps": 3477835,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3477835.onnx",
+                "reward": 96.7809986114502,
+                "creation_time": 1745758955.5956774,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3477835.pt"
+                ]
+            },
+            {
+                "steps": 3486271,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3486271.onnx",
+                "reward": 58.65230727654237,
+                "creation_time": 1745759017.380294,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3486271.pt"
+                ]
+            },
+            {
+                "steps": 3499352,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3499352.onnx",
+                "reward": 70.9199987873435,
+                "creation_time": 1745759093.2712219,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3499352.pt"
+                ]
+            },
+            {
+                "steps": 3555130,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3555130.onnx",
+                "reward": 82.9942855834961,
+                "creation_time": 1745759302.1063244,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3555130.pt"
+                ]
+            },
+            {
+                "steps": 3555130,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3555130.onnx",
+                "reward": null,
+                "creation_time": 1745759480.5523684,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3555130.pt"
+                ]
+            },
+            {
+                "steps": 3631532,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3631532.onnx",
+                "reward": 61.22599860429764,
+                "creation_time": 1745759802.5716553,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3631532.pt"
+                ]
+            },
+            {
+                "steps": 3888677,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3888677.onnx",
+                "reward": 70.79666578769684,
+                "creation_time": 1745760294.4513626,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3888677.pt"
+                ]
+            },
+            {
+                "steps": 3999393,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3999393.onnx",
+                "reward": 97.27999896473355,
+                "creation_time": 1745760515.4314501,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3999393.pt"
+                ]
+            },
+            {
+                "steps": 4179795,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4179795.onnx",
+                "reward": 103.40850002765656,
+                "creation_time": 1745760847.1595478,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4179795.pt"
+                ]
+            },
+            {
+                "steps": 4201669,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4201669.onnx",
+                "reward": 137.75,
+                "creation_time": 1745760964.9381163,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4201669.pt"
+                ]
+            },
+            {
+                "steps": 4299047,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4299047.onnx",
+                "reward": 89.98235253726735,
+                "creation_time": 1745761363.5868483,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4299047.pt"
+                ]
+            },
+            {
+                "steps": 4377348,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4377348.onnx",
+                "reward": 102.00062322616577,
+                "creation_time": 1745761527.549306,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4377348.pt"
+                ]
+            },
+            {
+                "steps": 4499049,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4499049.onnx",
+                "reward": 98.68849897384644,
+                "creation_time": 1745761773.6925242,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4499049.pt"
+                ]
+            },
+            {
+                "steps": 4703274,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4703274.onnx",
+                "reward": 115.1613336722056,
+                "creation_time": 1745762035.5932684,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4703274.pt"
+                ]
+            },
+            {
+                "steps": 4999914,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4999914.onnx",
+                "reward": 143.65499877929688,
+                "creation_time": 1745762333.8509367,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4999914.pt"
+                ]
+            },
+            {
+                "steps": 5499755,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5499755.onnx",
+                "reward": 96.97227157245983,
+                "creation_time": 1745762773.4553337,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5499755.pt"
+                ]
+            },
+            {
+                "steps": 5637613,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5637613.onnx",
+                "reward": 121.51066563924154,
+                "creation_time": 1745762900.549903,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5637613.pt"
+                ]
+            },
+            {
+                "steps": 5698347,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5698347.onnx",
+                "reward": 29.51315334680918,
+                "creation_time": 1745763302.723395,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5698347.pt"
+                ]
+            },
+            {
+                "steps": 5698347,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5698347.onnx",
+                "reward": null,
+                "creation_time": 1745763687.391684,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5698347.pt"
+                ]
+            },
+            {
+                "steps": 5707733,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5707733.onnx",
+                "reward": 31.176702215316446,
+                "creation_time": 1745763756.7574432,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5707733.pt"
+                ]
+            },
+            {
+                "steps": 5753500,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5753500.onnx",
+                "reward": 24.244583408037823,
+                "creation_time": 1745763986.560126,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5753500.pt"
+                ]
+            },
+            {
+                "steps": 5765117,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5765117.onnx",
+                "reward": 16.337457972057795,
+                "creation_time": 1745764085.7320738,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5765117.pt"
+                ]
+            },
+            {
+                "steps": 5875414,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5875414.onnx",
+                "reward": 16.26875009319999,
+                "creation_time": 1745764231.013917,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5875414.pt"
+                ]
+            },
+            {
+                "steps": 5901951,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5901951.onnx",
+                "reward": 4.948845900022066,
+                "creation_time": 1745764381.609829,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5901951.pt"
+                ]
+            },
+            {
+                "steps": 5909019,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5909019.onnx",
+                "reward": 10.209999761065921,
+                "creation_time": 1745764611.277417,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5909019.pt"
+                ]
+            },
+            {
+                "steps": 5915465,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5915465.onnx",
+                "reward": 9.377680958181188,
+                "creation_time": 1745764676.0012562,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5915465.pt"
+                ]
+            },
+            {
+                "steps": 5916609,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5916609.onnx",
+                "reward": 10.27461550785945,
+                "creation_time": 1747295435.172117,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5916609.pt"
+                ]
+            },
+            {
+                "steps": 5917315,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.onnx",
+                "reward": 10.227499604225159,
+                "creation_time": 1747295560.7505407,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.pt"
+                ]
+            },
+            {
+                "steps": 5917315,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.onnx",
+                "reward": null,
+                "creation_time": 1747295615.8574946,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.pt"
+                ]
+            },
+            {
+                "steps": 5917315,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.onnx",
+                "reward": null,
+                "creation_time": 1747295667.7639153,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.pt"
+                ]
+            },
+            {
+                "steps": 5917315,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.onnx",
+                "reward": null,
+                "creation_time": 1747295774.5137944,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5917315.pt"
+                ]
+            },
+            {
+                "steps": 5919149,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5919149.onnx",
+                "reward": 8.777619043986002,
+                "creation_time": 1747295846.966641,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5919149.pt"
+                ]
+            },
+            {
+                "steps": 5919149,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5919149.onnx",
+                "reward": null,
+                "creation_time": 1747295923.09658,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5919149.pt"
+                ]
+            },
+            {
+                "steps": 5919616,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5919616.onnx",
+                "reward": 8.833332856496176,
+                "creation_time": 1747296009.7998354,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5919616.pt"
+                ]
+            },
+            {
+                "steps": 5921713,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5921713.onnx",
+                "reward": 8.898333443535698,
+                "creation_time": 1747296105.9321237,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5921713.pt"
+                ]
+            },
+            {
+                "steps": 3888677,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3888677.onnx",
+                "reward": null,
+                "creation_time": 1747296502.020458,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3888677.pt"
+                ]
+            },
+            {
+                "steps": 3889206,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3889206.onnx",
+                "reward": 21.02000038964408,
+                "creation_time": 1747296566.4964015,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3889206.pt"
+                ]
+            },
+            {
+                "steps": 3889206,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3889206.onnx",
+                "reward": null,
+                "creation_time": 1747296920.1160605,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3889206.pt"
+                ]
+            },
+            {
+                "steps": 3892913,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3892913.onnx",
+                "reward": 8.34548399525304,
+                "creation_time": 1747296993.825857,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3892913.pt"
+                ]
+            },
+            {
+                "steps": 3956226,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3956226.onnx",
+                "reward": 7.745106859410063,
+                "creation_time": 1747297498.9399905,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3956226.pt"
+                ]
+            },
+            {
+                "steps": 3895322,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3895322.onnx",
+                "reward": 14.575614117739493,
+                "creation_time": 1747298394.1615295,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3895322.pt"
+                ]
+            },
+            {
+                "steps": 3901305,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3901305.onnx",
+                "reward": 8.489800252914428,
+                "creation_time": 1747300972.0658236,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3901305.pt"
+                ]
+            },
+            {
+                "steps": 3965677,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3965677.onnx",
+                "reward": 2.432940931881175,
+                "creation_time": 1747301545.8391616,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3965677.pt"
+                ]
+            },
+            {
+                "steps": 3999905,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-3999905.onnx",
+                "reward": 12.592385401419543,
+                "creation_time": 1747301617.784494,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-3999905.pt"
+                ]
+            },
+            {
+                "steps": 4312103,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4312103.onnx",
+                "reward": 14.027046984474131,
+                "creation_time": 1747302065.9281363,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4312103.pt"
+                ]
+            },
+            {
+                "steps": 4329458,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4329458.onnx",
+                "reward": 14.689615289981548,
+                "creation_time": 1747302504.461576,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4329458.pt"
+                ]
+            },
+            {
+                "steps": 4499986,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4499986.onnx",
+                "reward": 13.478837135226227,
+                "creation_time": 1747302781.076416,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4499986.pt"
+                ]
+            },
+            {
+                "steps": 4727400,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4727400.onnx",
+                "reward": 33.44741996642082,
+                "creation_time": 1747303083.440022,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4727400.pt"
+                ]
+            },
+            {
+                "steps": 4730006,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4730006.onnx",
+                "reward": 35.635833422342934,
+                "creation_time": 1747303216.686358,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4730006.pt"
+                ]
+            },
+            {
+                "steps": 4798297,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4798297.onnx",
+                "reward": 23.128571464901878,
+                "creation_time": 1747303383.0088081,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4798297.pt"
+                ]
+            },
+            {
+                "steps": 4798297,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4798297.onnx",
+                "reward": null,
+                "creation_time": 1747304030.1289258,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4798297.pt"
+                ]
+            },
+            {
+                "steps": 4817286,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4817286.onnx",
+                "reward": 8.299585599355748,
+                "creation_time": 1747304142.3945873,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4817286.pt"
+                ]
+            },
+            {
+                "steps": 4954995,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4954995.onnx",
+                "reward": 22.372575810461335,
+                "creation_time": 1747304329.6101298,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4954995.pt"
+                ]
+            },
+            {
+                "steps": 4962411,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4962411.onnx",
+                "reward": 14.738182100382717,
+                "creation_time": 1747304390.9232,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4962411.pt"
+                ]
+            },
+            {
+                "steps": 4999974,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-4999974.onnx",
+                "reward": 23.59048414999439,
+                "creation_time": 1747304527.397852,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-4999974.pt"
+                ]
+            },
+            {
+                "steps": 5245615,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5245615.onnx",
+                "reward": 44.29100093841553,
+                "creation_time": 1747304764.9037998,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5245615.pt"
+                ]
+            },
+            {
+                "steps": 5250554,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5250554.onnx",
+                "reward": 21.68538366831266,
+                "creation_time": 1747304827.8854272,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5250554.pt"
+                ]
+            },
+            {
+                "steps": 5415247,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5415247.onnx",
+                "reward": 30.503498578071593,
+                "creation_time": 1747304994.0681648,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5415247.pt"
+                ]
+            },
+            {
+                "steps": 5416927,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5416927.onnx",
+                "reward": 15.9033332268397,
+                "creation_time": 1747305314.659704,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5416927.pt"
+                ]
+            },
+            {
+                "steps": 5433365,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5433365.onnx",
+                "reward": 35.59206747186595,
+                "creation_time": 1747305455.2071328,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5433365.pt"
+                ]
+            },
+            {
+                "steps": 5494466,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5494466.onnx",
+                "reward": 37.622498124837875,
+                "creation_time": 1747305583.788169,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5494466.pt"
+                ]
+            },
+            {
+                "steps": 5499712,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5499712.onnx",
+                "reward": 19.02076828250518,
+                "creation_time": 1747305676.6945362,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5499712.pt"
+                ]
+            },
+            {
+                "steps": 5500188,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5500188.onnx",
+                "reward": 19.763570417250907,
+                "creation_time": 1747305679.774542,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5500188.pt"
+                ]
+            },
+            {
+                "steps": 5999843,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-5999843.onnx",
+                "reward": 73.40818149393255,
+                "creation_time": 1747306138.3443046,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-5999843.pt"
+                ]
+            },
+            {
+                "steps": 6067502,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-6067502.onnx",
+                "reward": null,
+                "creation_time": 1747306196.565231,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-6067502.pt"
+                ]
+            },
+            {
+                "steps": 6286510,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-6286510.onnx",
+                "reward": 89.10222223069933,
+                "creation_time": 1747307093.4483128,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-6286510.pt"
+                ]
+            },
+            {
+                "steps": 6292796,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-6292796.onnx",
+                "reward": 3.5260605958544393,
+                "creation_time": 1747398976.1824927,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-6292796.pt"
+                ]
+            },
+            {
+                "steps": 6371920,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-6371920.onnx",
+                "reward": 55.267916111275554,
+                "creation_time": 1747399332.9497013,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-6371920.pt"
+                ]
+            },
+            {
+                "steps": 6499845,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-6499845.onnx",
+                "reward": 17.659999592523825,
+                "creation_time": 1747399968.509335,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-6499845.pt"
+                ]
+            },
+            {
+                "steps": 6752791,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-6752791.onnx",
+                "reward": 91.53999896906316,
+                "creation_time": 1747400933.2066169,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-6752791.pt"
+                ]
+            },
+            {
+                "steps": 6999829,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-6999829.onnx",
+                "reward": 21.753845613736374,
+                "creation_time": 1747401198.8672497,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-6999829.pt"
+                ]
+            },
+            {
+                "steps": 7499779,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-7499779.onnx",
+                "reward": 71.96526228754144,
+                "creation_time": 1747401600.511563,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-7499779.pt"
+                ]
+            },
+            {
+                "steps": 7999854,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-7999854.onnx",
+                "reward": 11.657499896852594,
+                "creation_time": 1747402023.154925,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-7999854.pt"
+                ]
+            },
+            {
+                "steps": 8499989,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-8499989.onnx",
+                "reward": 51.3026309640784,
+                "creation_time": 1747402427.5752664,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-8499989.pt"
+                ]
+            },
+            {
+                "steps": 8669101,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-8669101.onnx",
+                "reward": 65.51266670227051,
+                "creation_time": 1747402566.9751544,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-8669101.pt"
+                ]
+            },
+            {
+                "steps": 8999983,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-8999983.onnx",
+                "reward": 41.678570696285796,
+                "creation_time": 1747417605.4212976,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-8999983.pt"
+                ]
+            },
+            {
+                "steps": 9499714,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-9499714.onnx",
+                "reward": 60.072499299049376,
+                "creation_time": 1747418007.2591188,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-9499714.pt"
+                ]
+            },
+            {
+                "steps": 9687936,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-9687936.onnx",
+                "reward": 3.678627570397129,
+                "creation_time": 1747418159.5449512,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-9687936.pt"
+                ]
+            },
+            {
+                "steps": 9701275,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-9701275.onnx",
+                "reward": 3.471666766712681,
+                "creation_time": 1747418284.200836,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-9701275.pt"
+                ]
+            },
+            {
+                "steps": 9499714,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-9499714.onnx",
+                "reward": null,
+                "creation_time": 1747418337.305989,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-9499714.pt"
+                ]
+            },
+            {
+                "steps": 9516611,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-9516611.onnx",
+                "reward": 91.1842841080257,
+                "creation_time": 1747418401.3085082,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-9516611.pt"
+                ]
+            },
+            {
+                "steps": 9958745,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-9958745.onnx",
+                "reward": 36.823998641967776,
+                "creation_time": 1747420365.1224957,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-9958745.pt"
+                ]
+            },
+            {
+                "steps": 9999654,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-9999654.onnx",
+                "reward": 76.15315577858372,
+                "creation_time": 1747420547.396547,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-9999654.pt"
+                ]
+            },
+            {
+                "steps": 10000176,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10000176.onnx",
+                "reward": 73.88699789047241,
+                "creation_time": 1747420550.8942628,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10000176.pt"
+                ]
+            },
+            {
+                "steps": 10031786,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10031786.onnx",
+                "reward": 47.04799866278966,
+                "creation_time": 1747420709.224639,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10031786.pt"
+                ]
+            },
+            {
+                "steps": 10276394,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10276394.onnx",
+                "reward": 73.11692127814659,
+                "creation_time": 1747421731.9021165,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10276394.pt"
+                ]
+            },
+            {
+                "steps": 10291429,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10291429.onnx",
+                "reward": 60.72235184557297,
+                "creation_time": 1747491288.5845716,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10291429.pt"
+                ]
+            },
+            {
+                "steps": 10499130,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10499130.onnx",
+                "reward": 61.32117479688981,
+                "creation_time": 1747491521.751965,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10499130.pt"
+                ]
+            },
+            {
+                "steps": 10825208,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10825208.onnx",
+                "reward": 89.20714160374233,
+                "creation_time": 1747491838.3615925,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10825208.pt"
+                ]
+            },
+            {
+                "steps": 10999819,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10999819.onnx",
+                "reward": 58.315711975097656,
+                "creation_time": 1747492024.913238,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10999819.pt"
+                ]
+            },
+            {
+                "steps": 11010079,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11010079.onnx",
+                "reward": 62.75388643476698,
+                "creation_time": 1747492035.580163,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11010079.pt"
+                ]
+            },
+            {
+                "steps": 11030881,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11030881.onnx",
+                "reward": null,
+                "creation_time": 1747492172.7955036,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11030881.pt"
+                ]
+            },
+            {
+                "steps": 10305354,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10305354.onnx",
+                "reward": 60.25499792098999,
+                "creation_time": 1747492360.1902697,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10305354.pt"
+                ]
+            },
+            {
+                "steps": 10499949,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10499949.onnx",
+                "reward": 83.18799953460693,
+                "creation_time": 1747492640.6334345,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10499949.pt"
+                ]
+            },
+            {
+                "steps": 10999005,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-10999005.onnx",
+                "reward": 114.31499862670898,
+                "creation_time": 1747493311.5342243,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-10999005.pt"
+                ]
+            },
+            {
+                "steps": 11499041,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11499041.onnx",
+                "reward": null,
+                "creation_time": 1747493983.0772667,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11499041.pt"
+                ]
+            },
+            {
+                "steps": 11575589,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11575589.onnx",
+                "reward": 68.38230675917406,
+                "creation_time": 1747494087.1518824,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11575589.pt"
+                ]
+            },
+            {
+                "steps": 11597360,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11597360.onnx",
+                "reward": 125.48999786376953,
+                "creation_time": 1747494240.553328,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11597360.pt"
+                ]
+            },
+            {
+                "steps": 11611321,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11611321.onnx",
+                "reward": 83.70666682720184,
+                "creation_time": 1747494366.8177423,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11611321.pt"
+                ]
+            },
+            {
+                "steps": 11617504,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11617504.onnx",
+                "reward": 73.8216667175293,
+                "creation_time": 1747494464.6033576,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11617504.pt"
+                ]
+            },
+            {
+                "steps": 11999850,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-11999850.onnx",
+                "reward": 105.26857158115932,
+                "creation_time": 1747494913.3470564,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-11999850.pt"
+                ]
+            },
+            {
+                "steps": 12499886,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-12499886.onnx",
+                "reward": 99.19999694824219,
+                "creation_time": 1747495461.240128,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-12499886.pt"
+                ]
+            },
+            {
+                "steps": 12999784,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-12999784.onnx",
+                "reward": 71.1825008392334,
+                "creation_time": 1747496012.863002,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-12999784.pt"
+                ]
+            },
+            {
+                "steps": 13499606,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-13499606.onnx",
+                "reward": 34.82666658361753,
+                "creation_time": 1747496563.9827824,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-13499606.pt"
+                ]
+            },
+            {
+                "steps": 13835197,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-13835197.onnx",
+                "reward": 60.04999933242798,
+                "creation_time": 1747496935.6546917,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-13835197.pt"
+                ]
+            },
+            {
+                "steps": 13999597,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-13999597.onnx",
+                "reward": 76.13052629797082,
+                "creation_time": 1747497111.1627483,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-13999597.pt"
+                ]
+            },
+            {
+                "steps": 14499145,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-14499145.onnx",
+                "reward": 95.20866475105285,
+                "creation_time": 1747497619.321878,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-14499145.pt"
+                ]
+            },
+            {
+                "steps": 14603735,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-14603735.onnx",
+                "reward": 110.23583062489827,
+                "creation_time": 1747497726.3752,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-14603735.pt"
+                ]
+            },
+            {
+                "steps": 14611115,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-14611115.onnx",
+                "reward": 95.21166388193767,
+                "creation_time": 1748193050.2987778,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-14611115.pt"
+                ]
+            },
+            {
+                "steps": 14675960,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-14675960.onnx",
+                "reward": 93.6449966430664,
+                "creation_time": 1749931928.6459427,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-14675960.pt"
+                ]
+            },
+            {
+                "steps": 14999724,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-14999724.onnx",
+                "reward": 86.11399955749512,
+                "creation_time": 1750523885.8340523,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-14999724.pt"
+                ]
+            },
+            {
+                "steps": 15499677,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-15499677.onnx",
+                "reward": 60.02249831954638,
+                "creation_time": 1750525755.0454395,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-15499677.pt"
+                ]
+            },
+            {
+                "steps": 15566525,
+                "file_path": "results\\Dabuleni\\Dabuleni\\Dabuleni-15566525.onnx",
+                "reward": 70.14214030333927,
+                "creation_time": 1750526009.399344,
+                "auxillary_file_paths": [
+                    "results\\Dabuleni\\Dabuleni\\Dabuleni-15566525.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15566525,
+            "file_path": "results\\Dabuleni\\Dabuleni.onnx",
+            "reward": 70.14214030333927,
+            "creation_time": 1750526009.399344,
+            "auxillary_file_paths": [
+                "results\\Dabuleni\\Dabuleni\\Dabuleni-15566525.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
